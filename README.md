@@ -1,2 +1,2 @@
-# Taking note web-application
+# Taking notes web-application
 
