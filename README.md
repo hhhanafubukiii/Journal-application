@@ -1,4 +1,4 @@
-# 📒 Jornal
+# 📒 Journal
 A simple and personal web-based note-taking app. You can create notes, edit them, share them with friends and set the lifetime of notes and links.
 
 ## Content
